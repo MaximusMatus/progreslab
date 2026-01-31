@@ -25,3 +25,6 @@ Môžu ho užívať aj ľudia, ktorí nešportujú?
 
 Dr Layne Norton
 Mnoho ľudí si neuvedomuje, že kreatín sa neukladá lev vo svaloch ako zdroj energie, ale aj v pečeni, semenníkoch a v mozgu. V mozgu je uložený ako veľmi rýchly zdroj energie
+
+link:
+https://go.dognet.com/?chid=RFoyUBi5&url=https%3A%2F%2Fkreatin.nutraceutics.sk%2F

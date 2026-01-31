@@ -27,6 +27,11 @@
   --headline-medium: 1rem;
   --headline-small: 1rem;
 }
+
+.link{
+  text-decoration: none;
+}
+
 .btn-wrapper {
   z-index: 19;
 }
@@ -39,14 +44,10 @@
   border-radius: 100px;
   font-weight: 600;
   font-family: inherit;
-  /* transition: all 0.2s ease; */
   position: relative;
   color: white;
   text-transform: uppercase;
   background-color: #00aeef;
-  /* .hero-button:hover {
-    transform: scale(1.5px);
-  } */
 }
 @property --angle {
   syntax: "<angle>";
